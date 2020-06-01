@@ -56,4 +56,81 @@ Element Attributes:
 
 Comments in Html
 
-<!--  -->
+```
+<!-- Content -->
+```
+
+Italicize the text
+
+```
+use <em> instead of <i>. <em> adds style and emphasizes the word
+```
+
+Bold style
+
+```
+Use <strong> instead of <b>
+```
+
+Unordered Lists:
+
+```
+<ul>
+  <li>ul1</li>
+  <li>ul2</li>
+</ul>
+```
+
+Ordered Lists:
+
+```
+<ol>
+  <li>ul1</li>
+  <li>ul2</li>
+</ol>
+```
+
+Images:
+
+```
+Its self closing tag.
+
+<img src="url" >
+```
+
+Links
+
+```
+<a href="hobbies.html">My Hobbies</a>
+```
+
+
+Tables
+
+```
+
+Example1
+
+<table>
+
+  <tr>
+    <td>2010-2013</td>
+    <td>
+      Lead ddeveloper at temo App
+    </td>
+  </tr>
+  <tr>
+    <td>2010</td>
+    <td>
+      Reasearcher at so so university
+    </td>
+  </tr>
+
+</table>
+
+
+Example2:
+
+
+
+```
